@@ -2,5 +2,6 @@
 <item>
   <version>0.0.2.0</version>
   <url>https://github.com/ismiller/MonkeyTaskReleases/releases/download/v0.0.2.0-alpha/Monkey.Task.Installer.0.0.2.0.exe</url>
+  <changelog>https://mllr.blog/projects/monkeytask/</changelog>
   <mandatory>false</mandatory>
 </item>
